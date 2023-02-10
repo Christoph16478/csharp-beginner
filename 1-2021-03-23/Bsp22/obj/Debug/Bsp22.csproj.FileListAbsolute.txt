@@ -1,0 +1,6 @@
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-23\BFIKursTag1\Bsp22\bin\Debug\Bsp22.exe.config
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-23\BFIKursTag1\Bsp22\bin\Debug\Bsp22.exe
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-23\BFIKursTag1\Bsp22\bin\Debug\Bsp22.pdb
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-23\BFIKursTag1\Bsp22\obj\Debug\Bsp22.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-23\BFIKursTag1\Bsp22\obj\Debug\Bsp22.exe
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-23\BFIKursTag1\Bsp22\obj\Debug\Bsp22.pdb

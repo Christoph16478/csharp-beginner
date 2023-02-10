@@ -1,0 +1,7 @@
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-23\BFIKursTag1\Bsp04\bin\Debug\Bsp04.exe.config
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-23\BFIKursTag1\Bsp04\bin\Debug\Bsp04.exe
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-23\BFIKursTag1\Bsp04\bin\Debug\Bsp04.pdb
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-23\BFIKursTag1\Bsp04\obj\Debug\Bsp04.csprojAssemblyReference.cache
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-23\BFIKursTag1\Bsp04\obj\Debug\Bsp04.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-23\BFIKursTag1\Bsp04\obj\Debug\Bsp04.exe
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-23\BFIKursTag1\Bsp04\obj\Debug\Bsp04.pdb

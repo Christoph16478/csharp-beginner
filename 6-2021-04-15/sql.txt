@@ -1,0 +1,64 @@
+-- das ist eine SQL-Script Datei
+
+-- Kommentar (einzeilig)
+
+/*
+	mehrzeiliger
+	Kommentar
+*/
+
+-- Befehl um die Datenbank auszuwählen:
+-- Bitte Befehle immer markieren und auf EXECUTE klicken!!!
+USE db01
+GO
+
+-- SQL
+-- https://de.wikipedia.org/wiki/SQL
+-- https://www.w3schools.com/sql/
+-- Auslesen der Datenbanktabellen
+-- Daten hinzufügen
+-- Daten aktualisieren
+-- Daten löschen
+
+SELECT * FROM Personal
+-- SELECT: Auswählen
+-- *: Alle Spalten der Tabelle
+-- FROM Personal: ... der Tabelle Personal
+---> Auswählen aller Spalten aus der Tabelle Personal
+-- Wenn keine Beschränkung angegeben ist, werden alle Datensätze ausgegeben
+SELECT * FROM Personal WHERE GebJahr<1900
+-- Alle Personen ausgeben bei denen Geburtsjahr kleiner als 1900 sind.
+-- Eine Zeile ist ein Datensatz.
+
+-- Eine bestimmten Datensatz herausholen
+SELECT * From Personal WHERE Personalnummer = 2
+
+-- Nur Vorname und Nachname des personals auslesen
+SELECT Vorname, Nachname From Personal WHERE Personalnummer = 2
+
+-- Eine Text Suche durchführen wollen
+SELECT * FROM Personal WHERE Vorname LIKE 'F%'
+
+-- Alle Einträge die 'x' im Vornamen beinhalten
+SELECT * FROM Personal WHERE Vorname LIKE '%x%'
+
+-- Einen neuen Datensatz hinzufügen
+-- Anzahl der betroffenen Zeilen sind 
+INSERT INTO Personal (Vorname, Nachname, GebJahr, Anrede) VALUES ('Hansa','Muster',1980,'Frau')
+
+SELECT * FROM Personal
+
+-- Aktualisieren
+UPDATE Personal
+SET Vorname = 'Hans'
+WHERE Personalnummer = 6;
+
+-- Daten löschen
+DELETE FROM Personal WHERE Personalnummer = 7
+
+-- Datensätze nach einer Spalte anordnen/Sortieren nach Preise
+-- Hier nach dem Geburtsjahr sortiert
+SELECT * FROM Personal ORDER BY GebJahr
+
+-- Die ältesten zwei Personen ausgeben
+SELECT TOP 2 * FROM Personal ORDER BY GebJahr

@@ -1,0 +1,13 @@
+D:\Visual Studio\BFIKursTag1\Bsp16\bin\Debug\Bsp16.exe.config
+D:\Visual Studio\BFIKursTag1\Bsp16\bin\Debug\Bsp16.exe
+D:\Visual Studio\BFIKursTag1\Bsp16\bin\Debug\Bsp16.pdb
+D:\Visual Studio\BFIKursTag1\Bsp16\obj\Debug\Bsp16.csproj.CoreCompileInputs.cache
+D:\Visual Studio\BFIKursTag1\Bsp16\obj\Debug\Bsp16.exe
+D:\Visual Studio\BFIKursTag1\Bsp16\obj\Debug\Bsp16.pdb
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-23\BFIKursTag1\Bsp16\bin\Debug\Bsp16.exe.config
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-23\BFIKursTag1\Bsp16\bin\Debug\Bsp16.exe
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-23\BFIKursTag1\Bsp16\bin\Debug\Bsp16.pdb
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-23\BFIKursTag1\Bsp16\obj\Debug\Bsp16.csprojAssemblyReference.cache
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-23\BFIKursTag1\Bsp16\obj\Debug\Bsp16.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-23\BFIKursTag1\Bsp16\obj\Debug\Bsp16.exe
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-23\BFIKursTag1\Bsp16\obj\Debug\Bsp16.pdb

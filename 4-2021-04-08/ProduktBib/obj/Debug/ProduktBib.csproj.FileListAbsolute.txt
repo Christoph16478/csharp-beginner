@@ -1,0 +1,5 @@
+D:\Visual Studio\BFITAG4\ProduktBib\bin\Debug\ProduktBib.dll
+D:\Visual Studio\BFITAG4\ProduktBib\bin\Debug\ProduktBib.pdb
+D:\Visual Studio\BFITAG4\ProduktBib\obj\Debug\ProduktBib.csproj.CoreCompileInputs.cache
+D:\Visual Studio\BFITAG4\ProduktBib\obj\Debug\ProduktBib.dll
+D:\Visual Studio\BFITAG4\ProduktBib\obj\Debug\ProduktBib.pdb

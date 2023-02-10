@@ -1,0 +1,7 @@
+D:\Visual Studio\BFITAG4\Bsp05\bin\Debug\Bsp05.exe.config
+D:\Visual Studio\BFITAG4\Bsp05\bin\Debug\Bsp05.exe
+D:\Visual Studio\BFITAG4\Bsp05\bin\Debug\Bsp05.pdb
+D:\Visual Studio\BFITAG4\Bsp05\obj\Debug\Bsp05.csprojAssemblyReference.cache
+D:\Visual Studio\BFITAG4\Bsp05\obj\Debug\Bsp05.csproj.CoreCompileInputs.cache
+D:\Visual Studio\BFITAG4\Bsp05\obj\Debug\Bsp05.exe
+D:\Visual Studio\BFITAG4\Bsp05\obj\Debug\Bsp05.pdb

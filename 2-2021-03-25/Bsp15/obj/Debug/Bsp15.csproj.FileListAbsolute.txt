@@ -1,0 +1,7 @@
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-25\BFIKursTag2\Bsp15\bin\Debug\Bsp15.exe.config
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-25\BFIKursTag2\Bsp15\bin\Debug\Bsp15.exe
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-25\BFIKursTag2\Bsp15\bin\Debug\Bsp15.pdb
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-25\BFIKursTag2\Bsp15\obj\Debug\Bsp15.csprojAssemblyReference.cache
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-25\BFIKursTag2\Bsp15\obj\Debug\Bsp15.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-25\BFIKursTag2\Bsp15\obj\Debug\Bsp15.exe
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-25\BFIKursTag2\Bsp15\obj\Debug\Bsp15.pdb

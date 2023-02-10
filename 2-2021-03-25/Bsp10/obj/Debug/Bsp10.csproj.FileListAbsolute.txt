@@ -1,0 +1,7 @@
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-25\BFIKursTag2\Bsp10\bin\Debug\Bsp10.exe.config
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-25\BFIKursTag2\Bsp10\bin\Debug\Bsp10.exe
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-25\BFIKursTag2\Bsp10\bin\Debug\Bsp10.pdb
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-25\BFIKursTag2\Bsp10\obj\Debug\Bsp10.csprojAssemblyReference.cache
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-25\BFIKursTag2\Bsp10\obj\Debug\Bsp10.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-25\BFIKursTag2\Bsp10\obj\Debug\Bsp10.exe
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-25\BFIKursTag2\Bsp10\obj\Debug\Bsp10.pdb

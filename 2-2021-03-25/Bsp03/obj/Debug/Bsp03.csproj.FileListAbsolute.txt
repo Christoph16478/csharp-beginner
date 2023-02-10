@@ -1,0 +1,13 @@
+D:\Visual Studio\BFIKursTag2\Bsp03\bin\Debug\Bsp03.exe.config
+D:\Visual Studio\BFIKursTag2\Bsp03\bin\Debug\Bsp03.exe
+D:\Visual Studio\BFIKursTag2\Bsp03\bin\Debug\Bsp03.pdb
+D:\Visual Studio\BFIKursTag2\Bsp03\obj\Debug\Bsp03.csproj.CoreCompileInputs.cache
+D:\Visual Studio\BFIKursTag2\Bsp03\obj\Debug\Bsp03.exe
+D:\Visual Studio\BFIKursTag2\Bsp03\obj\Debug\Bsp03.pdb
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-25\BFIKursTag2\Bsp03\bin\Debug\Bsp03.exe.config
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-25\BFIKursTag2\Bsp03\bin\Debug\Bsp03.exe
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-25\BFIKursTag2\Bsp03\bin\Debug\Bsp03.pdb
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-25\BFIKursTag2\Bsp03\obj\Debug\Bsp03.csprojAssemblyReference.cache
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-25\BFIKursTag2\Bsp03\obj\Debug\Bsp03.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-25\BFIKursTag2\Bsp03\obj\Debug\Bsp03.exe
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-25\BFIKursTag2\Bsp03\obj\Debug\Bsp03.pdb

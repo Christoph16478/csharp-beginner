@@ -1,0 +1,7 @@
+D:\Visual Studio\BFIKursTag2\Bsp08\bin\Debug\Bsp08.exe.config
+D:\Visual Studio\BFIKursTag2\Bsp08\bin\Debug\Bsp08.exe
+D:\Visual Studio\BFIKursTag2\Bsp08\bin\Debug\Bsp08.pdb
+D:\Visual Studio\BFIKursTag2\Bsp08\obj\Debug\Bsp08.csprojAssemblyReference.cache
+D:\Visual Studio\BFIKursTag2\Bsp08\obj\Debug\Bsp08.csproj.CoreCompileInputs.cache
+D:\Visual Studio\BFIKursTag2\Bsp08\obj\Debug\Bsp08.exe
+D:\Visual Studio\BFIKursTag2\Bsp08\obj\Debug\Bsp08.pdb

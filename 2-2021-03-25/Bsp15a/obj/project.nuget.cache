@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xUyANPPNsaPDPHZQ1Nik4fqWnGNKpB7BAVSEkl3io35+Oya5lUsoKyP8KbftKXiM+2jdy/4x8ZgeK47Pl+PpMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Chris\\Desktop\\Christoph16478_github\\csharp-beginner\\2-2021-03-25\\Bsp15a\\Bsp15a.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Chris\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512",
+    "C:\\Users\\Chris\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Chris\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Chris\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\Users\chris\Desktop\Programmieren mit C#.NET\5-2021-04-13\BFIKursTag5\Bsp02\obj\Debug\Bsp02.csprojAssemblyReference.cache
+C:\Users\chris\Desktop\Programmieren mit C#.NET\5-2021-04-13\BFIKursTag5\Bsp02\obj\Debug\Bsp02.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\Programmieren mit C#.NET\5-2021-04-13\BFIKursTag5\Bsp02\bin\Debug\Bsp02.exe.config
+C:\Users\chris\Desktop\Programmieren mit C#.NET\5-2021-04-13\BFIKursTag5\Bsp02\bin\Debug\Bsp02.exe
+C:\Users\chris\Desktop\Programmieren mit C#.NET\5-2021-04-13\BFIKursTag5\Bsp02\bin\Debug\Bsp02.pdb
+C:\Users\chris\Desktop\Programmieren mit C#.NET\5-2021-04-13\BFIKursTag5\Bsp02\bin\Debug\HundeBib.dll
+C:\Users\chris\Desktop\Programmieren mit C#.NET\5-2021-04-13\BFIKursTag5\Bsp02\obj\Debug\Bsp02.csproj.CopyComplete
+C:\Users\chris\Desktop\Programmieren mit C#.NET\5-2021-04-13\BFIKursTag5\Bsp02\obj\Debug\Bsp02.exe
+C:\Users\chris\Desktop\Programmieren mit C#.NET\5-2021-04-13\BFIKursTag5\Bsp02\obj\Debug\Bsp02.pdb

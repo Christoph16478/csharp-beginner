@@ -1,0 +1,7 @@
+D:\Visual Studio\BFIKursTag2\Bsp16\bin\Debug\Bsp16.exe.config
+D:\Visual Studio\BFIKursTag2\Bsp16\bin\Debug\Bsp16.exe
+D:\Visual Studio\BFIKursTag2\Bsp16\bin\Debug\Bsp16.pdb
+D:\Visual Studio\BFIKursTag2\Bsp16\obj\Debug\Bsp16.csprojAssemblyReference.cache
+D:\Visual Studio\BFIKursTag2\Bsp16\obj\Debug\Bsp16.csproj.CoreCompileInputs.cache
+D:\Visual Studio\BFIKursTag2\Bsp16\obj\Debug\Bsp16.exe
+D:\Visual Studio\BFIKursTag2\Bsp16\obj\Debug\Bsp16.pdb

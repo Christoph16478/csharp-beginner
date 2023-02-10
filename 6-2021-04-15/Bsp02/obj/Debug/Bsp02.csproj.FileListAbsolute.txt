@@ -1,0 +1,10 @@
+C:\Users\chris\Desktop\Programmieren mit C#.NET\6-2021-04-15\BFIKursTag6\Bsp02\bin\Debug\Bsp02.exe.config
+C:\Users\chris\Desktop\Programmieren mit C#.NET\6-2021-04-15\BFIKursTag6\Bsp02\bin\Debug\Bsp02.exe
+C:\Users\chris\Desktop\Programmieren mit C#.NET\6-2021-04-15\BFIKursTag6\Bsp02\bin\Debug\Bsp02.pdb
+C:\Users\chris\Desktop\Programmieren mit C#.NET\6-2021-04-15\BFIKursTag6\Bsp02\obj\Debug\Bsp02.csprojAssemblyReference.cache
+C:\Users\chris\Desktop\Programmieren mit C#.NET\6-2021-04-15\BFIKursTag6\Bsp02\obj\Debug\Bsp02.Form1.resources
+C:\Users\chris\Desktop\Programmieren mit C#.NET\6-2021-04-15\BFIKursTag6\Bsp02\obj\Debug\Bsp02.Properties.Resources.resources
+C:\Users\chris\Desktop\Programmieren mit C#.NET\6-2021-04-15\BFIKursTag6\Bsp02\obj\Debug\Bsp02.csproj.GenerateResource.cache
+C:\Users\chris\Desktop\Programmieren mit C#.NET\6-2021-04-15\BFIKursTag6\Bsp02\obj\Debug\Bsp02.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\Programmieren mit C#.NET\6-2021-04-15\BFIKursTag6\Bsp02\obj\Debug\Bsp02.exe
+C:\Users\chris\Desktop\Programmieren mit C#.NET\6-2021-04-15\BFIKursTag6\Bsp02\obj\Debug\Bsp02.pdb

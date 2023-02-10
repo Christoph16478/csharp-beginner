@@ -1,0 +1,13 @@
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-25\BFIKursTag2\Bsp15a\bin\Debug\netcoreapp3.1\Bsp15a.exe
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-25\BFIKursTag2\Bsp15a\bin\Debug\netcoreapp3.1\Bsp15a.deps.json
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-25\BFIKursTag2\Bsp15a\bin\Debug\netcoreapp3.1\Bsp15a.runtimeconfig.json
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-25\BFIKursTag2\Bsp15a\bin\Debug\netcoreapp3.1\Bsp15a.runtimeconfig.dev.json
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-25\BFIKursTag2\Bsp15a\bin\Debug\netcoreapp3.1\Bsp15a.dll
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-25\BFIKursTag2\Bsp15a\bin\Debug\netcoreapp3.1\Bsp15a.pdb
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-25\BFIKursTag2\Bsp15a\obj\Debug\netcoreapp3.1\Bsp15a.csprojAssemblyReference.cache
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-25\BFIKursTag2\Bsp15a\obj\Debug\netcoreapp3.1\Bsp15a.AssemblyInfoInputs.cache
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-25\BFIKursTag2\Bsp15a\obj\Debug\netcoreapp3.1\Bsp15a.AssemblyInfo.cs
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-25\BFIKursTag2\Bsp15a\obj\Debug\netcoreapp3.1\Bsp15a.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-25\BFIKursTag2\Bsp15a\obj\Debug\netcoreapp3.1\Bsp15a.dll
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-25\BFIKursTag2\Bsp15a\obj\Debug\netcoreapp3.1\Bsp15a.pdb
+C:\Users\chris\Desktop\Programmieren mit C#.NET\2021-03-25\BFIKursTag2\Bsp15a\obj\Debug\netcoreapp3.1\Bsp15a.genruntimeconfig.cache

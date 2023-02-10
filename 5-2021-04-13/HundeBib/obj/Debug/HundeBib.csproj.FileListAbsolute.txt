@@ -1,0 +1,5 @@
+C:\Users\chris\Desktop\Programmieren mit C#.NET\5-2021-04-13\BFIKursTag5\HundeBib\bin\Debug\HundeBib.dll
+C:\Users\chris\Desktop\Programmieren mit C#.NET\5-2021-04-13\BFIKursTag5\HundeBib\bin\Debug\HundeBib.pdb
+C:\Users\chris\Desktop\Programmieren mit C#.NET\5-2021-04-13\BFIKursTag5\HundeBib\obj\Debug\HundeBib.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\Programmieren mit C#.NET\5-2021-04-13\BFIKursTag5\HundeBib\obj\Debug\HundeBib.dll
+C:\Users\chris\Desktop\Programmieren mit C#.NET\5-2021-04-13\BFIKursTag5\HundeBib\obj\Debug\HundeBib.pdb
